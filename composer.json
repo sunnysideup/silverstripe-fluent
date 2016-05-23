@@ -2,7 +2,7 @@
 	"name": "tractorcow/silverstripe-fluent",
 	"description": "Simple localisation for Silverstripe",
 	"type": "silverstripe-module",
-	"keywords": ["silverstripe", "localisation", "localization", "translation", "language", "locale", "multilingual"],
+	"keywords": ["silverstripe", "localisation", "localization", "translation", "language", "locale", "multilingual", "translate", "translation", "i18n", "language"],
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
